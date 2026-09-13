@@ -4,3 +4,7 @@ template <typename T>
 T add(T a, T b) {
   return a + b;
 }
+
+T substract(T a, T b) {
+  return a - b;
+}
